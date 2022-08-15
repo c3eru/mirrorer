@@ -9,7 +9,7 @@ defaults:
     shell: bash
 
 env:
-  LINK: https://mega.nz/file/ZF0hDAQY#EZBVXr4IEAew8aN5mkWc7W-7qtbfySRHZsPq6nBrsms
+  LINK: https://mega.nz/file/qT5RBS6b#-8bwrc6Myk0NSuMnlrwRAW9aKFCYVUWRI1imPsWOzAg
   RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
   TYPE_FILE: zip
 
