@@ -14,6 +14,7 @@ env:
   LINK: https://mega.nz/file/ZF0hDAQY#EZBVXr4IEAew8aN5mkWc7W-7qtbfySRHZsPq6nBrsms
   RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
   TYPE_FILE: zip
+  apt-get install sshpass -y
 
 jobs:
   process:
