@@ -11,7 +11,7 @@ defaults:
 env:
   SF_USERNAME: ${{ secrets.SF_USER }}
   SF_PASSWORD: ${{ secrets.SF_PASWORD }}
-  LINK: https://mega.nz/file/gA9ARI5K#Tnf_4UtKnXfOSvlxDx6MeUwAg-t9VPQea1biic1vidQ
+  LINK: https://mega.nz/file/5cMBnBzR#GK7rx4jAys-ol7zIR2TTHjLvBG9L0x4zUj16BxQzyWg
   RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
   TYPE_FILE: zip
   
